@@ -1,0 +1,70 @@
+// do not edit the settingsVersion property!
+settingsVersion=89
+ 
+// when you are ready go back to t-ui and type restart to see changes
+// ===-
+// Color theme for T-UI Android Home Screen by alexk7110
+// ===-
+// skin
+deviceColor=#ff918175
+inputColor=#ffce7828
+outputColor=#fffce8c3
+backgroundColor=#ff1C1B19
+useSystemFont=false
+fontSize=16
+ramColor=#fffbb829
+inputFieldBottom=true
+username=alex
+showUsername=true
+showSubmit=true
+deviceName=null
+showRam=true
+showDevice=true
+showToolbar=true
+showSessionInfoWhenInputEmpty=true
+linuxAppearance=true
+showPathInSessionInfo=true
+showDeviceNameInSessionInfo=true
+ 
+// suggestions
+suggestionTextColor=#ff2d2c29
+transparentSuggestions=false
+multicolorSuggestions=true
+executeOnSuggestionClick=true
+aliasSuggestionBg=#ffFF5722
+appSuggestionBg=#ffce7828
+commandSuggestionsBg=#ff698857
+songSuggestionBg=#ffEEFF41
+contactSuggestionBg=#ff6796bd
+fileSuggestionBg=#ff9975ab
+defaultSuggestionBg=#fffce8c3
+ 
+// rates (change values if you want to show less or more result in suggestions)
+minAppsRate=4
+minFilesRate=2
+minSongsRate=4
+minContactsRate=4
+minCommandsRate=4
+ 
+// pre-load
+useSystemWallpaper=false
+fullscreen=false
+keepAliveWithNotification=true
+openKeyboardOnStart=true
+ 
+// music
+fromMediastore=true
+playRandom=true
+songsFolder=/sdcard/Music
+ 
+// others
+closeOnDbTap=true
+doubleTapSU=true
+showSuggestions=true
+enableEnterInPhysicalKeyboard=false
+compareStringForApps=false
+showDonationMessage=true
+showAliasValue=true
+ 
+// commands
+defaultSearch=-g
