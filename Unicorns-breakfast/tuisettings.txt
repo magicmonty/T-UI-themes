@@ -1,0 +1,65 @@
+// Paste Me after the settingsVersion | do not edit the settingsVersion property!
+deviceColor=#ffA6cd
+inputColor=#00d0ff
+outputColor=#ff61ca
+backgroundColor=#fefefe
+aliasSuggestionBg=#ffA6cd
+appSuggestionBg=#ffA6cd
+commandSuggestionsBg=#FFDE5C
+songSuggestionBg=#C7DF47
+contactSuggestionBg=#3AE050
+fileSuggestionBg=#3AE050
+defaultSuggestionBg=#FF61CA
+suggestionTextColor=#ffffff
+ramColor=#3ae050
+useSystemFont=false
+fontSize=15
+inputFieldBottom=true
+username=Al
+showUsername=true
+showSubmit=true
+deviceName=Redmi
+showRam=true
+showDevice=false
+showToolbar=true
+showSessionInfoWhenInputEmpty=true
+linuxAppearance=true
+showPathInSessionInfo=true
+showDeviceNameInSessionInfo=true
+
+// suggestion
+
+transparentSuggestions=false
+multicolorSuggestions=true
+executeOnSuggestionClick=true
+
+
+// rates (change values if you want to show less or more result in suggestions)
+minAppsRate=4
+minFilesRate=2
+minSongsRate=4
+minContactsRate=4
+minCommandsRate=4
+
+// pre-load
+useSystemWallpaper=false
+fullscreen=false
+keepAliveWithNotification=true
+openKeyboardOnStart=true
+
+// music
+fromMediastore=true
+playRandom=true
+songsFolder=/sdcard/Music
+
+// others
+closeOnDbTap=true
+doubleTapSU=true
+showSuggestions=true
+enableEnterInPhysicalKeyboard=false
+compareStringForApps=false
+showDonationMessage=true
+showAliasValue=true
+
+// commands
+defaultSearch=-g
