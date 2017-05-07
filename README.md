@@ -7,3 +7,7 @@ a repo full of custom themes for Linux CLI Launcher
 - include a screen.png (Screenshot of the theme)
 - include a tuisettings.txt
 - DONT include the settingsVersion and instruct people to paste after this property
+
+## Theme Builder (WIP)
+have a go building themes.
+[https://green-bubble.glitch.me/]
