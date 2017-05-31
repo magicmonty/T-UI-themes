@@ -1,7 +1,4 @@
-// do not edit the settingsVersion property!
-settingsVersion=90
-
-// when you are ready go back to t-ui and type "restart" to see changes
+// Paste Me after the settingsVersion | do not edit the settingsVersion property!
 
 // skin
 deviceColor=#ffd65d0e
